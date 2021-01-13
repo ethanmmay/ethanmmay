@@ -26,5 +26,3 @@ https://ethanmmay.github.io/moody-kittens/
 <img align="left" alt="Git" width="26px" src="git.png" />
 <img align="left" alt="GitHub" width="26px" src="github.png" />
 <img align="left" alt="Terminal" width="26px" src="terminal.png" />
-
-<br><br><a href="https://github.com/codeSTACKr/codeSTACKr"># README.md Design from codeSTACKr</link>
