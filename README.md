@@ -26,3 +26,4 @@ https://ethanmmay.github.io/moody-kittens/
 <img align="left" alt="Git" width="26px" src="git.png" />
 <img align="left" alt="GitHub" width="26px" src="github.png" />
 <img align="left" alt="Terminal" width="26px" src="terminal.png" />
+<img align="left" alt="Ruby" width="26px" src="ruby.png" />
