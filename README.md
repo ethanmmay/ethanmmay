@@ -6,9 +6,9 @@ I'm excited to learn more and secure a career in building, training and perfecti
 
 ### Available Websites:
 
-https://ethanmmay.github.io/balloon-pop/
+https://ethanmmay.github.io/blog/
 
-https://ethanmmay.github.io/contacts-challenge/
+https://ethanmmay.github.io/balloon-pop/
 
 https://ethanmmay.github.io/moody-kittens/
 
