@@ -8,22 +8,22 @@ I'm excited to learn more and secure a career in building, training and perfecti
 
 https://ethanmmay.github.io/blog/
 
-https://ethanmmay.github.io/balloon-pop/
+https://ethanmmay.github.io/hacker-typer/
 
-https://ethanmmay.github.io/moody-kittens/
+https://ethanmmay.github.io/balloon-pop/
 
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="vsc.png" />
-<img align="left" alt="HTML5" width="26px" src="html.png" />
-<img align="left" alt="CSS3" width="26px" src="css.png" />
-<img align="left" alt="JavaScript" width="26px" src="js.png" />
-<img align="left" alt="Node.js" width="26px" src="nodejs.png" />
-<img align="left" alt="Python" width="26px" src="python.png" />
-<img align="left" alt="PyCharm" width="26px" src="pycharm.png" />
-<img align="left" alt="MySQL" width="26px" src="mysql.png" />
-<img align="left" alt="Git" width="26px" src="git.png" />
-<img align="left" alt="GitHub" width="26px" src="github.png" />
-<img align="left" alt="Terminal" width="26px" src="terminal.png" />
-<img align="left" alt="Ruby" width="26px" src="ruby.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="images/vsc.png" />
+<img align="left" alt="HTML5" width="26px" src="images/html.png" />
+<img align="left" alt="CSS3" width="26px" src="images/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="images/js.png" />
+<img align="left" alt="Node.js" width="26px" src="images/nodejs.png" />
+<img align="left" alt="Python" width="26px" src="images/python.png" />
+<img align="left" alt="PyCharm" width="26px" src="images/pycharm.png" />
+<img align="left" alt="MySQL" width="26px" src="images/mysql.png" />
+<img align="left" alt="Git" width="26px" src="images/git.png" />
+<img align="left" alt="GitHub" width="26px" src="images/github.png" />
+<img align="left" alt="Terminal" width="26px" src="images/terminal.png" />
+<img align="left" alt="Ruby" width="26px" src="images/ruby.png" />
