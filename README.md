@@ -8,7 +8,7 @@ I'm excited to learn more and secure a career in building, training and perfecti
 
 https://ethanmmay.github.io/blog/
 
-https://ethanmmay.github.io/hacker-typer/
+https://ethanmmay.github.io/checkpoint-2/
 
 https://ethanmmay.github.io/balloon-pop/
 
