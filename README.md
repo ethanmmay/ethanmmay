@@ -1,16 +1,14 @@
 ### Ethan May - Software Developer
-Hello! I'm Ethan May, a Software Developer in Meridian, Idaho. <br> I've been pursuing software development since early high school <br> and it's become quite a passion.
-I'm continuing my journey with <br> Boise State University, pursuing a Bachelors in Computer Science, <br> as well as attending Boise Code Works, where I am learning <br> more practical development skills.
+Hello! Nice to meet you. A little bit about me: I've been pursuing software development since early high school and it's become quite a passion. I'm continuing my journey with Boise State University, pursuing a Bachelors in Computer Science, as well as attending Boise Code Works, where I am learning more practical development skills.
 
 ---
 
-### Available Websites:
+### Landing Page / Portfolio:
+https://ethanmmay.github.io/
 
-https://ethanmmay.github.io/blog/         
-
-https://ethanmmay.github.io/checkpoint-2/          
-
-https://ethanmmay.github.io/balloon-pop/              
+### Fun Websites:
+https://ethanmmay.github.io/checkpoint-2 <br>
+https://ethanmmay.github.io/balloon-pop
 
 ---
 
