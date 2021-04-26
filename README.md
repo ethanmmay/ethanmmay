@@ -4,14 +4,14 @@ Hello! Nice to meet you. A little bit about me: I've been pursuing software deve
 ---
 
 ### Professional Resources:
-- [[Portfolio](https://ethanmmay.github.io/)] <br>
-- [[Elevator Pitch](https://docs.google.com/document/d/1V0MX5obxrq0h-2C6lDp3zmpOArFCoQXqPT5GOhdpnCQ/edit?usp=sharing)] <br>
-- [[Stylized Resume](https://github.com/ethanmmay/ethanmmay/blob/main/Job%20Search/Week%205%20BCW%20Homework/Ethan's%202021%20Resume%20(3).pdf)] <br>
-- [[LinkedIn](https://www.linkedin.com/in/ethanmmay/)]
+- [Portfolio](https://ethanmmay.github.io/) <br>
+- [Elevator Pitch](https://docs.google.com/document/d/1V0MX5obxrq0h-2C6lDp3zmpOArFCoQXqPT5GOhdpnCQ/edit?usp=sharing) <br>
+- [Stylized Resume](https://github.com/ethanmmay/ethanmmay/blob/main/Job%20Search/Week%205%20BCW%20Homework/Ethan's%202021%20Resume%20(3).pdf) <br>
+- [LinkedIn](https://www.linkedin.com/in/ethanmmay/)
 
 ### Fun Websites:
-- [[Hacker Clicker](https://ethanmmay.github.io/checkpoint-2)] <br>
-- [[Balloon Pop](https://ethanmmay.github.io/balloon-pop)]
+- [Hacker Clicker](https://ethanmmay.github.io/checkpoint-2) <br>
+- [Balloon Pop](https://ethanmmay.github.io/balloon-pop)
 
 ---
 
