@@ -22,3 +22,10 @@ https://ethanmmay.github.io/balloon-pop
 |  <img align="left" alt="Python" title="Python" width="26px" src="images/python.png" /> <img align="left" alt="PyCharm" title="PyCharm" width="26px" src="images/pycharm.png" /> <img align="left" alt="MySQL" title="MySQL" width="26px" src="images/mysql.png" /> <img align="left" alt="GitHub" title="GitHub" width="26px" src="images/github.png" /> <img align="left" alt="Git" title="Git" width="26px" src="images/git.png" /> |
 |   <img align="left" alt="Terminal" title="Terminal" width="26px" src="images/terminal.png" /> <img align="left" alt="Ruby" title="Ruby" width="26px" src="images/ruby.png" /> <img align="left" alt="MongoDB" title="MongoDB" width="26px" src="images/mongodb.png" /> <img align="left" alt="Vue" title="Vue" width="26px" src="images/vue.png" /> <img align="left" alt="CSharp" title="CSharp" width="26px" src="images/csharp.png" /> |
 |  <img align="left" alt=".NET" title=".NET" width="26px" src="images/dotnet.png" /> <img align="left" alt="Java" title="Java" width="26px" src="images/java.png" />
+
+---
+
+### Hiring?
+[[Elevator Pitch](https://docs.google.com/document/d/1V0MX5obxrq0h-2C6lDp3zmpOArFCoQXqPT5GOhdpnCQ/edit?usp=sharing)]<br>
+[[Stylized Resume](https://github.com/ethanmmay/ethanmmay/blob/main/Job%20Search/Week%205%20BCW%20Homework/Ethan's%202021%20Resume%20(3).pdf)]<br>
+[[LinkedIn](https://www.linkedin.com/in/ethanmmay/)]
