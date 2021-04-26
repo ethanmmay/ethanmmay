@@ -3,6 +3,10 @@ Hello! Nice to meet you. A little bit about me: I've been pursuing software deve
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanmmay&hide=HTML,CSS,SCSS&langs_count=10&layout=compact&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&hide_border=true)
+
+---
+
 ### Professional Resources:
 - [Portfolio](https://ethanmmay.github.io/) <br>
 - [Elevator Pitch](https://docs.google.com/document/d/1V0MX5obxrq0h-2C6lDp3zmpOArFCoQXqPT5GOhdpnCQ/edit?usp=sharing) <br>
@@ -12,10 +16,6 @@ Hello! Nice to meet you. A little bit about me: I've been pursuing software deve
 ### Fun Websites:
 - [Hacker Clicker](https://ethanmmay.github.io/checkpoint-2) <br>
 - [Balloon Pop](https://ethanmmay.github.io/balloon-pop)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanmmay&hide=HTML,CSS,SCSS&langs_count=10&layout=compact&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&hide_border=true)
 
 --- 
 
