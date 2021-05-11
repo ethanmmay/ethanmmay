@@ -1,6 +1,8 @@
 ### Ethan May - Software Developer
 Hello! Nice to meet you. A little bit about me: I've been pursuing software development since early high school and it's become quite a passion. I'm continuing my journey with Boise State University, pursuing a Bachelors in Computer Science. I also recently graduated from CodeWorks' Bootcamp in Boise, where I earned a certification in Full Stack Software Development.
 
+I'm currently working on transferring my knowledge to the React javascript framework and perfecting the skills I learned at CodeWorks. 
+
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanmmay&hide=HTML,CSS,SCSS&langs_count=10&layout=compact&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&hide_border=true)
