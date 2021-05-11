@@ -1,5 +1,5 @@
 ### Ethan May - Software Developer
-Hello! Nice to meet you. A little bit about me: I've been pursuing software development since early high school and it's become quite a passion. I'm continuing my journey with Boise State University, pursuing a Bachelors in Computer Science. I also recently graduated from CodeWorks Bootcamp in Boise, where I earned a certification in Full Stack Software Development.
+Hello! Nice to meet you. A little bit about me: I've been pursuing software development since early high school and it's become quite a passion. I'm continuing my journey with Boise State University, pursuing a Bachelors in Computer Science. I also recently graduated from CodeWorks' Bootcamp in Boise, where I earned a certification in Full Stack Software Development.
 
 ---
 
