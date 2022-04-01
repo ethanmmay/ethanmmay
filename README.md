@@ -1,7 +1,5 @@
 ### Ethan May - Software Developer
-Hello! Nice to meet you. A little bit about me: I've been pursuing software development since early high school and it's become quite a passion. I recently graduated from CodeWorks' Bootcamp in Boise, where I earned a certification in Immersive Full Stack Software Development.
-
-#### I'm currently working on transferring my knowledge to the React javascript framework and perfecting the skills I developed at CodeWorks.
+Hello! Nice to meet you. A little bit about me: I've been pursuing software development since early high school and it's become quite a passion. I recently graduated from CodeWorks' Bootcamp in Boise, where I earned a certification in Immersive Full Stack Software Development. I have been working as a Freelance Web Developer since, but am looking for a positions as a software developer.
 
 ---
 
