@@ -15,7 +15,7 @@ Hello! Nice to meet you. A little bit about me: I've been pursuing software deve
 - [Stylized Resume](https://github.com/ethanmmay/ethanmmay/blob/main/Job%20Search/Week%205%20BCW%20Homework/Ethan's%202021%20Resume%20(3).pdf) <br>
 - [LinkedIn](https://www.linkedin.com/in/ethanmmay/)
 
-### Fun Websites:
+### Fun Websites I Made:
 - [Hacker Clicker](https://ethanmmay.github.io/checkpoint-2) <br>
 - [Balloon Pop](https://ethanmmay.github.io/balloon-pop)
 
