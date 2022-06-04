@@ -15,7 +15,8 @@ Hello! Nice to meet you. A little bit about me: I've been pursuing software deve
 
 ### Fun Websites I Made:
 - [Hacker Clicker](https://ethanmmay.github.io/checkpoint-2) <br>
-- [Balloon Pop](https://ethanmmay.github.io/balloon-pop)
+- [Balloon Pop](https://ethanmmay.github.io/balloon-pop) <br>
+- [The Conjuring Site](https://ethanmmay.github.io/conjuring-site)
 
 --- 
 
