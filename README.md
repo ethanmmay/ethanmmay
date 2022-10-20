@@ -1,4 +1,4 @@
-### Ethan May - Software Developer
+### Ethan May - Software Engineer
 Hello! Nice to meet you. A little bit about me: I've been pursuing software development since early high school and it's become quite a passion. I graduated from CodeWorks' Programming Bootcamp in Boise, where I earned a certification in Full Stack Software Development. I have worked as a Freelance Web Developer since then and recently joined QualityLogic as a Software Tester.
 
 A few things I love to talk about besides programming are filmmaking, reading, and huge fantasy worlds you can get lost in.
