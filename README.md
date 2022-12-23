@@ -1,24 +1,15 @@
-### Ethan May
-Hello! Nice to meet you. A little bit about me: I've been pursuing software development since early high school and it's become quite a passion. I graduated from CodeWorks' Programming Bootcamp in Boise, where I earned a certification in Full Stack Software Development. I have worked as a Freelance Web Developer since then and have taken an interest in Software Testing, both manual and automated. 
 
-A few things I love to talk about besides programming are filmmaking, reading, and huge fantasy worlds you can get lost in.
+I like filmmaking, reading, and huge fantasy worlds you can get lost in.
+
+My dream job is to develop & research AI and machine learning
+
+[<img align="left" alt="LinkedIn Logo" title="Ethan's LinkedIn" width="26px" height="26px" src="images/linkedin.png" />](https://www.linkedin.com/in/ethanmmay/)
+
+[Check out my Portfolio here](https://ethanmmay.github.io/)
 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanmmay&hide=HTML,CSS,SCSS&langs_count=10&layout=compact&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&hide_border=true)
-
----
-
-### Professional Resources:
-- [Portfolio](https://ethanmmay.github.io/) <br>
-- [Elevator Pitch](https://docs.google.com/document/d/1V0MX5obxrq0h-2C6lDp3zmpOArFCoQXqPT5GOhdpnCQ/edit?usp=sharing) <br>
-- [Stylized Resume](https://github.com/ethanmmay/ethanmmay/blob/main/Job%20Search/Week%205%20BCW%20Homework/Ethan's%202021%20Resume%20(3).pdf) <br>
-- [LinkedIn](https://www.linkedin.com/in/ethanmmay/)
-
-### Fun Websites I Made:
-- [Hacker Clicker](https://ethanmmay.github.io/checkpoint-2) <br>
-- [Balloon Pop](https://ethanmmay.github.io/balloon-pop) <br>
-- [The Conjuring Site](https://ethanmmay.github.io/conjuring-site)
 
 --- 
 
