@@ -1,7 +1,6 @@
 
-I like filmmaking, reading, and huge fantasy worlds you can get lost in.
-
-My dream job is to develop & research AI and machine learning
+I like filmmaking, reading, and huge fantasy or sci-fi worlds you can get lost in.
+Currently independently researching neural networks & LLMs
 
 [<img align="left" alt="LinkedIn Logo" title="Ethan's LinkedIn" width="26px" height="26px" src="images/linkedin.png" />](https://www.linkedin.com/in/ethanmmay/)
 
